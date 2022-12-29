@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hamza0495
 - 👀 I’m interested in Python, Linux, Web Development, Cyber Security and more 
-- 🌱 I’m currently learning ... Full Stack Django Development and Ethical Hacking  
+- 🌱 I’ve already Learned Python, Linux, Cyber Security currently learning ... Full Stack Django Development and Ethical Hacking  
 - 💞️ I’m looking to collaborate on any project that matches my interests
 - 📫 How to reach me ... Anyone can reach out to me on engnrhamza@gmail.com
 
